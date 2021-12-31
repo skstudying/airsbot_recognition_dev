@@ -1,0 +1,2 @@
+LaserScan2PointCloud2:SC-LeGO-LOAM/SC-LeGO-LOAM/LeGO-LOAM:SC-LeGO-LOAM/SC-LeGO-LOAM/cloud_msgs:file_player_mulran
+-DCATKIN_DEVEL_PREFIX=/home/sks/mulran_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sks/mulran_ws/install -G Unix Makefiles

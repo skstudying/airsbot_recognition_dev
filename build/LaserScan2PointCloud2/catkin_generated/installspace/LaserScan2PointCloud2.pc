@@ -1,0 +1,8 @@
+prefix=/home/sks/mulran_ws/install
+
+Name: LaserScan2PointCloud2
+Description: Description of LaserScan2PointCloud2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: laser_geometry roscpp rospy sensor_msgs tf
